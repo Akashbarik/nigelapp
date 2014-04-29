@@ -1,0 +1,1 @@
+json.extract! @college, :id, :name, :established, :type, :location, :campus, :noofstudent, :website, :coursesoffered, :scholarshipcourses, :description, :studentaccomodation, :faculty, :created_at, :updated_at

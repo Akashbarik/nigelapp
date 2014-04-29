@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  established: 2014-04-25 09:35:26
+  type: 
+  location: MyString
+  campus: MyString
+  noofstudent: 1
+  website: MyString
+  coursesoffered: MyString
+  scholarshipcourses: MyString
+  description: MyString
+  studentaccomodation: MyString
+  faculty: MyString
+
+two:
+  name: MyString
+  established: 2014-04-25 09:35:26
+  type: 
+  location: MyString
+  campus: MyString
+  noofstudent: 1
+  website: MyString
+  coursesoffered: MyString
+  scholarshipcourses: MyString
+  description: MyString
+  studentaccomodation: MyString
+  faculty: MyString
